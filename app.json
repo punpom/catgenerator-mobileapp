@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "cat-app",
+    "slug": "cat-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "",
+    "githubUrl": "https://github.com/punpom/catgenerator-mobileapp"
+  }
+}
